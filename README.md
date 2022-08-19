@@ -1,1 +1,1 @@
-<h1 align="center"><strong>Teste</strong></h1>
+<h1 align="center"><strong>Estudos sobre temas diversos de arquitetura e design de software</strong></h1>
