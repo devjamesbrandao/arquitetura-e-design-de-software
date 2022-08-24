@@ -4,7 +4,9 @@
 > "O uso sem necessidade gera complexidade sem sentido"
 
 ### ` 📚 Conceitos utilizados na arquitetura de software`
-> <strong>OverHead:</strong> pode ser definido como qualquer combinação de tempo de computação excessivo ou indireto, memória, largura de banda, ou outros recursos que são necessários para executar uma tarefa específica. Por exemplo, podemos que dizer que o banco de dados está com overhead quando ele está com um consumo de memória muito alto.
+> <strong>OverHead:</strong> pode ser definido como qualquer combinação de tempo de computação excessivo ou indireto, memória, largura de banda, ou outros recursos que são necessários para executar uma tarefa específica. Por exemplo, podemos que dizer que o banco de dados está com overhead quando ele está com um consumo de memória muito alto. <br />
+
+<strong>Trade-off:</strong> é uma decisão situacional que envolve a diminuição ou perda de uma qualidade, quantidade ou propriedade de um conjunto ou desenho em troca de ganhos noutros aspectos. Por exemplo, se você decide dormir mais tarde para estudar, você está adquirindo mais conhecimento, porém está diminuindo o tempo de descanso (sono).
 
 ### ` 📜 Tópicos sobre arquitetura de software`
 
