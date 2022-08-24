@@ -1,5 +1,8 @@
 <h1 align="center"><strong>Estudos sobre temas diversos de arquitetura e design de software</strong></h1>
 
+### ` 📖 Frases interessantes sobre arquitetura de software`
+> "O uso sem necessidade gera complexidade sem sentido"
+
 ### ` 📜 Tópicos sobre arquitetura de software`
 
 #### Complexidade
