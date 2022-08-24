@@ -3,6 +3,9 @@
 ### ` 📖 Frases interessantes sobre arquitetura de software`
 > "O uso sem necessidade gera complexidade sem sentido"
 
+### ` 📚 Conceitos utilizados na arquitetura de software`
+> <strong>OverHead:</strong> pode ser definido como qualquer combinação de tempo de computação excessivo ou indireto, memória, largura de banda, ou outros recursos que são necessários para executar uma tarefa específica. Por exemplo, podemos que dizer que o banco de dados está com overhead quando ele está com um consumo de memória muito alto.
+
 ### ` 📜 Tópicos sobre arquitetura de software`
 
 #### Complexidade
