@@ -29,11 +29,14 @@ Já a <strong>complexidade essencial</strong> é basicamente a complexidade que 
     <img src="/img/soc.png" alt="Exemplo de arquitetura que segue Separation of Concern" title="Exemplo de arquitetura que segue Separation of Concern">
 </p> 
 
-#### Don't Repeat Yourself
+#### Princípio Don't Repeat Yourself
 > Cada parte do conhecimento deve ter uma <strong>representação única</strong> não ambígua e definitiva dentro da aplicação. Segundo esse princípio, não devemos escrever o mesmo trecho de código em várias partes da aplicação. O ideal seria, de alguma forma, modularizá-lo a fim de reaproveitá-lo.
 
-#### KISS (Keep It Simple, Stupid)
-> O <strong>KISS</strong> valoriza a simplicidade do projeto e defende que toda a complexidade desnecessária seja descartada. De acordo com esse princípio, devemos, sempre que possível, prezar por um código simples e eficiente, sem adicionar complexidade dispensável, como, por exemplo, desenvolver funcionalidades não solicitadas. Se não precisa, não faça.
+#### Princípio KISS (Keep It Simple, Stupid)
+> O <strong>KISS</strong> valoriza a simplicidade do projeto e defende que toda a complexidade desnecessária seja descartada. De acordo com esse princípio, devemos, sempre que possível, prezar por um código simples e eficiente, sem adicionar complexidade dispensável, como, por exemplo, utilizar arquitetura de Microsserviços para criar uma API CRUD simples. Se não precisa, não faça.
+
+#### Princípio YAGNI (You Ain't Gonna Need It)
+> Uma orientação que sugere não adicionar funcionalidades ao código fonte de uma aplicação até que estas sejam realmente necessárias. Ou seja, o desenvolver só deve fazer aquelas funcionalidades solicitadas.
 
 ### ` 🌐 Referências`
 - Amadurecendo com Separation Of Concerns: https://www.devmedia.com.br/amadurecendo-com-separation-of-concerns/18699
