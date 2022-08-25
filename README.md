@@ -38,6 +38,9 @@ Já a <strong>complexidade essencial</strong> é basicamente a complexidade que 
 #### Princípio YAGNI (You Ain't Gonna Need It)
 > Uma orientação que sugere não adicionar funcionalidades ao código fonte de uma aplicação até que estas sejam realmente necessárias. Ou seja, o desenvolver só deve fazer aquelas funcionalidades solicitadas.
 
+#### Conway's Law
+> "Qualquer empresa que projeta um sistema, inevitavelmente produz um projeto cuja estrutura é uma cópia da estrutura de comunicação da organização." - Melvin Conway
+
 ### ` 🌐 Referências`
 - Amadurecendo com Separation Of Concerns: https://www.devmedia.com.br/amadurecendo-com-separation-of-concerns/18699
 
