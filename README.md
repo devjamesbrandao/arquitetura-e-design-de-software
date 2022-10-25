@@ -14,6 +14,10 @@
 > A <strong>complexidade acidental</strong> é aquela que surge durante o processo de desenvolvimento, ou seja, ela é <strong>CAUSADA</strong> pela abordagem escolhida para resolver o problema. Por exemplo, as vezes o desenvolvedor quer construir uma API no formato de Microsserviço utilizando DDD, CQRS, Event Sourcing, orquestração de container com Kubernetes, etc. Porém, toda essa complexidade é desnecessária, pois o que foi solicitado é apenas uma API CRUD simples. Ou seja, o problema é simples, todavia você está propondo uma solução hiper ultra complexa. <br />
 Já a <strong>complexidade essencial</strong> é basicamente a complexidade que nosso <strong>software</strong> se propõe resolver, ou seja, ele é realmente complexo, portanto, exige uma certo nível de complexidade para sua resolução (aqui é onde o filho chora e a mãe não vê).
 
+### PoC (Proof of Concept)
+> Prova de Conceito ou PoC, é uma palavra que vem do inglês na qual significa Proof of Concept. Ela busca pela evidência documentada para que um software venha a ser bem-sucedido.
+> Por se tratar de um dos primeiros métodos para testar e avaliar uma ideia conceitual para software, produto ou solução para uma empresa, a prova de conceito na prática é como um procedimento cujo o objetivo do mesmo é provar a viabilidade de um conceito e validá-lo em baixa escala.
+
 #### Single Point Of Failure (ponto de falha única)
 <p align="center">
     <img src="/img/spof.png" alt="Single Point Of Failure" title="Single Point Of Failure">
@@ -43,4 +47,6 @@ Já a <strong>complexidade essencial</strong> é basicamente a complexidade que 
 
 ### ` 🌐 Referências`
 - Amadurecendo com Separation Of Concerns: https://www.devmedia.com.br/amadurecendo-com-separation-of-concerns/18699
+
+- Prova de Conceito (Poc): o que é e como construir?: https://blog.nectarcrm.com.br/o-que-e-prova-de-conceito/
 
